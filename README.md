@@ -5,4 +5,4 @@ Simple calculator App that performs basic operations such as add, subtract, mult
 ## Application Design
 |1|2|
 |:-:|:-:|
-|![1](screenshots/menu.png)|![2](screenshots/calculate.png)|
+|![1](screenshots/1.png)|![2](screenshots/2.png)|
